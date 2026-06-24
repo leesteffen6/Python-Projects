@@ -4,6 +4,8 @@
 
 # testing the amend function on git 
 
+# testing the amend function, but adding a different comment in git
+
 dog_foods = {
     "Great Dane Foods": 4,
     "Min Pin Pup Foods": 10,
